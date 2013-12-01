@@ -1,6 +1,7 @@
 {
 	"categorias":[
 		{
+			"id" : 1,
 			"nombre" : "Desayunos",
 			"platillos" : [
 				{	
@@ -18,6 +19,7 @@
 			]
 		},
 		{
+			"id" :3,
 			"nombre" : "Comidas",
 			"platillos" :[
 				{
