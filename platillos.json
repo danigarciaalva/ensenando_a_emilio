@@ -2,7 +2,7 @@
 	"categorias":[
 		{
 			"nombre" : "Desayunos",
-			"platilos" : [
+			"platillos" : [
 				{
 					"nombre" : "Huevos con Jamón",
 					"descripcion" : "Estan de huevos",
