@@ -1,0 +1,38 @@
+{
+	"categorias":[
+		{
+			"nombre" : "Desayunos",
+			"platilos" : [
+				{
+					"nombre" : "Huevos con Jamón",
+					"descripcion" : "Estan de huevos",
+					"imagen" : "http://3.bp.blogspot.com/-MawHx9gvXrQ/UGHquogkcPI/AAAAAAAAABk/-BSMlZ1p1qc/s1600/Huevos+con+jam%C3%B3n.jpg",
+					"precio" : 70
+				},
+				{
+					"nombre" : "Pan tostado",
+					"descripcion" : "Esta bien fucking duro",
+					"imagen" : "http://www.faromundi.org.do/wp-content/uploads/2013/10/panquemado.jpg",
+					"precio" : 40
+				}
+			]
+		},
+		{
+			"nombre" : "Comidas",
+			"platillos" :[
+				{
+					"nombre" : "Mole con pollo",
+					"descripcion" : "De mi rancho",
+					"imagen" : "http://librattus.files.wordpress.com/2009/07/mole.jpg",
+					"precio" : 140
+				},
+				{
+					"nombre" : "Camarones al mojo",
+					"descripcion" : "Son para hacerlo mas rico :3",
+					"imagen" : "http://www.elburritofeliz.com/yahoo_site_admin/assets/images/Camarones_Al_Mojo_De_Ajo.287214321_large.JPG",
+					"precio" : 400
+				}	
+			]
+		}
+	]
+}
