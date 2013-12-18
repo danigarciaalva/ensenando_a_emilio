@@ -1,0 +1,32 @@
+{
+	"pines" : [
+		{
+			"nombre": "Plaza Americas",
+			"direccion": "Lazaro Cardenas",
+			"latitud" : "12313",
+			"longitud" : "12213123",
+			"imagen" : "http://www.editoriallapaz.org/masas_minoria_Saldana_fotoPlazaLasA.jpg"
+		},
+		{
+			"nombre": "Cerro Macui",
+			"direccion": "Alguna",
+			"latitud" : "123123",
+			"longitud" : "213213",
+			"imagen" : "http://araizcorre.files.wordpress.com/2009/12/macuiltepetl.jpg"
+		},
+		{
+			"nombre": "Faculta de Informatica",
+			"direccion": "Av Xalapa",
+			"latitud" : "123213",
+			"longitud" : "123123",
+			"imagen" : "http://www.uv.mx/fei/files/2013/04/conferencia_2-778x320.jpg"
+		},
+		{
+			"nombre": "Los lagos",
+			"direccion": "Venustiano Carranza",
+			"latitud" : "23123",
+			"longitud" : "123123",
+			"imagen" : "http://mexico.cnn.com/media/2010/09/13/lagos-1.jpg"
+		}
+	]	
+}
